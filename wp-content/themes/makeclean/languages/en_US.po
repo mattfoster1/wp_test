@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Makeclean v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-12-19 21:42+0530\n"
+"Last-Translator: admin <onistaweb@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ makeclean
+#: 404.php:23
+msgid "Ohh! Coundn't Find it"
+msgstr ""
+
+# @ makeclean
+#: content.php:122
+msgid "BY "
+msgstr ""
+
+# @ makeclean
+#: 404.php:25
+msgid "This file May Have Been Moved or Delated. Be Sure to Check Your Spelling."
+msgstr ""
+
+# @ makeclean
+#: archive.php:36 index.php:37 search.php:37
+#: page-templates/blog-template.php:80
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+# @ makeclean
+#: archive.php:37 index.php:38 search.php:38
+#: page-templates/blog-template.php:81
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+# @ makeclean
+#: archive.php:38 content.php:147 content-page.php:26 index.php:39
+#: search.php:39 content-ow_services.php:29 page-templates/blog-template.php:82
+msgid "Page"
+msgstr ""
+
+# @ makeclean
+#: content-ow_services.php:59
+msgid "Schedule your window cleaning estimate today!"
+msgstr ""
+
+# @ makeclean
+#: content.php:170
+msgid "Read more"
+msgstr ""
+
+# @ makeclean
+#: content.php:155
+msgid "Share This Post : "
+msgstr ""
+
+# @ makeclean
+#: content.php:66
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+# @ makeclean
+#: content.php:84
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+# @ makeclean
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ makeclean
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+# @ makeclean
+#. translators: %s: Name of current post
+#: content.php:138 content-ow_services.php:20
+msgid "Continue reading %s"
+msgstr ""
+
+# @ makeclean
+#: content.php:143 content-page.php:22 content-ow_services.php:25
+msgid "Pages:"
+msgstr ""
+
+# @ makeclean
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+# @ makeclean
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ makeclean
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+# @ makeclean
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+# @ makeclean
+#: content-page.php:33
+msgid "Edit"
+msgstr ""
+
+# @ makeclean
+#: functions.php:75
+msgid "Primary menu"
+msgstr ""
+
+# @ makeclean
+#: functions.php:76
+msgid "Footer menu"
+msgstr ""
+
+# @ makeclean
+#: functions.php:233
+msgid "Comment navigation"
+msgstr ""
+
+# @ makeclean
+#: functions.php:236
+msgid "Older Comments"
+msgstr ""
+
+# @ makeclean
+#: functions.php:240
+msgid "Newer Comments"
+msgstr ""
+
+# @ makeclean
+#: header.php:95
+msgid "Cart - "
+msgstr ""
+
+# @ makeclean
+#: header.php:166
+msgid "free instant quote"
+msgstr ""
+
+# @ makeclean
+#: owtemplates/page-header.php:23
+msgid "Error Page"
+msgstr ""
+
+# @ makeclean
+#: owtemplates/page-header.php:26
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ makeclean
+#: owtemplates/portfolio-navigation.php:27
+msgid "Previous Project"
+msgstr ""
+
+# @ makeclean
+#: owtemplates/portfolio-navigation.php:66
+msgid "Next Project"
+msgstr ""
+
+# @ makeclean
+#: owtemplates/related-portfolio.php:28
+msgid "you may Also Like"
+msgstr ""
+
+# @ makeclean
+#: owtemplates/portfolio-share.php:3
+msgid "Share this details"
+msgstr ""

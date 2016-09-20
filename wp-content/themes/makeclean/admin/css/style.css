@@ -1,0 +1,73 @@
+/* WP Admin Box Border Style */
+/*
+.postbox .hndle,
+.stuffbox .hndle {
+	border-bottom: 3px solid #0074a2;
+}
+.postbox.closed h3 {
+	border-bottom: 2px solid #7ad03a;
+	box-shadow: none;
+}
+*/
+
+.owclearfix::before,
+.owclearfix::after {
+	content: " ";
+	display: table;
+}
+.owclearfix::after {
+	clear: both;
+}
+
+#setting-error-tgmpa {
+	display: table;
+}
+
+.redux-ow_repeater-image {
+	border: 2px solid #2196F3;
+	margin-bottom: 10px;
+}
+
+/* Post Type */
+.post-type-ow_photoslider .updated.notice-success > p > a,
+.post-type-ow_testimonials .updated.notice-success > p > a,
+.post-type-ow_pricetable .updated.notice-success > p > a,
+.post-type-ow_team .updated.notice-success > p > a/*,
+.post-type-ow_portfolio .updated.notice-success > p > a*/ {
+    display: none;
+}
+
+.redux-dev-mode-notice-container,
+body.wp-admin .rAds .mgv1_1,
+body.wp-admin .rAds {
+	display: none !important;
+}
+
+.redux-notice-field {
+	border-color: #0091cd;
+	position: relative;
+	border-right: 5px solid #0091cd;
+	background-color: #ccc;
+}
+
+/*
+.redux-notice-field::before {
+    background-color: #0091cd;
+    content: "";
+    height: 4px;
+    left: -4px;
+    position: absolute;
+    width: 43px;
+	top: -4px;
+}
+
+.redux-notice-field::after {
+    background-color: #0091cd;
+    content: "";
+    height: 4px;
+    right: 0;
+    position: absolute;
+    width: 43px;
+	bottom: 0;
+}
+*/
